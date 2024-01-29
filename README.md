@@ -1,4 +1,4 @@
-# Fala rapaziada, aqui é 0ne! 🤯
+# Fala rapaziada, aqui é o 0ne! 🤯
 Criei este repositório com o objetivo de compartilhar minhas anotações sobre hacking ético, espero poder ajudar!
 
 Convido vocês à conhecerem minhas Redes Sociais! 🌐<br>
